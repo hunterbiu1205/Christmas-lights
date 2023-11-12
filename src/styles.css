@@ -11,6 +11,15 @@ body {
   height: 100vh;
 }
 
+h1 {
+  color: #fff;
+}
+
+span {
+  padding-right: 10px;
+  font-size: 1.2rem;
+  color: #fff;
+}
 .circle {
   width: 50px;
   height: 50px;
